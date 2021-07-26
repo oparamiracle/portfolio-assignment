@@ -1,0 +1,45 @@
+.body{
+    max-width: 1000;
+}
+.container-fliud {
+    background-color: rgb(75, 2, 2);
+    border-radius: 9%;
+    width: 90%;
+    height: 700px;
+    padding: 1%;
+    margin-left: 3em;
+}
+nav{
+     margin-bottom: 4em;
+}
+li{
+    text-align: right;
+    color: white;
+    float: right;
+    outline: none;
+    list-style: none;
+    padding: 4%;
+    margin-bottom: 2em;
+}
+.row-1{
+    color: white;
+    margin-left: 4em;
+    margin-bottom: 6em;
+}
+.row-2{
+    color: white;
+    margin-left: 4em;
+}
+h1{
+    font-size:80px;
+}
+img{
+    border-radius: 40%;
+
+}
+footer{
+    color: white;
+    margin-top: 6em;
+    text-align: center;
+    margin-left: 6em;
+}

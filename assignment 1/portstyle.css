@@ -1,0 +1,39 @@
+body{
+    background-image: url(image/bg45.jpg);
+    background-repeat: no-repeat; 
+}
+nav{
+    border:white 2px solid;
+}
+h1{
+    font-style: italic;
+    font-family: monocursive;
+    font-size: 80px;
+    font-weight: 600;
+    margin-top: 2em;
+    padding-left: 5%;
+}
+h4{
+    font-style: italic;
+    font-family: monocursive;
+    padding-left: 5%;
+}
+h6{
+    font-style: italic;
+    font-family: monocursive;
+    padding-left: 5%;
+}
+.row-2{
+    margin-top: 30em;
+    align-items: center;
+    height: 30%;
+}
+.sec1{
+    align-items: center;
+    text-align: center;
+}
+
+footer{
+    margin-top: 5em;
+    text-align: right;
+}
